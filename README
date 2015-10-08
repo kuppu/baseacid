@@ -13,3 +13,9 @@
 
 
 5. Fourth commit was local will not be seen by any one
+   - this is technically fifth from timing perspective
+   - pushing this immediately to master
+   - should be visible to kuppu
+   
+ 6. this is commit local no push to master by kuppus 
+	- should be visible
