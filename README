@@ -17,9 +17,9 @@
    - pushing this immediately to master
    - should be visible to kuppu
    
- 6. this is commit local no push to master by kuppus 
+ 6. this is commit local with push to master by kuppus 
 	- should not be visible
-	- but is still visible
+
 
 7. 7th commit in tine, also local with no push by kuppus	
-	- why is remote remote repository is getting updated without any push ?
+	- previous commit comment incorrect about push
