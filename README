@@ -18,4 +18,8 @@
    - should be visible to kuppu
    
  6. this is commit local no push to master by kuppus 
-	- should be visible
+	- should not be visible
+	- but is still visible
+
+7. 7th commit in tine, also local with no push by kuppus	
+	- why is remote remote repository is getting updated without any push ?
