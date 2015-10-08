@@ -17,7 +17,23 @@
    - pushing this immediately to master
    - should be visible to kuppu
    
+
  6. this is commit local no push to master by kuppus 
 	- should be visible
 	
 11. 11 timewise commit 4 has been done and pushed in the meantime
+
+ 6. this is commit local with push to master by kuppus 
+	- should not be visible
+
+
+7. 7th commit in tine, also local with no push by kuppus	
+	- previous commit comment incorrect about push
+	
+9. 9th time wise commit from kuppu without push 
+
+10. 10th time wise commit and push
+
+12. 12 time wise commit with a push immediate
+
+13. merged 11 timewise commit as part of this 
