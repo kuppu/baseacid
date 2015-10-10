@@ -1,0 +1,2 @@
+1. This is third file but in feature 1  and not in master
+ - feature1 branch is not yet pushed and not visible
