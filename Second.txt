@@ -1,0 +1,4 @@
+1. adding file along with 15 commit of first file (REAdME)
+ - Not in Feature 1 branch, added tp master after Feature1 branch was created
+2. Second commit for this file 16th for the master	
+	- will not let me switch to feature 1 unless changes in master is commited
